@@ -6,7 +6,7 @@ It uses two tools which this version of Netbeans doesn't have:
 1. jcalendar: This is for the issueBook, to arrange the issue and due dates.
 2. rs2xml: This is is used to display the data in a table format.
 
-This project was made with the help of a YouTube video series since I couldn't find an easier guide and code online to make this project.
+This project was made with the help of a YouTube video series. I followed this guide making improvements and modifications. It was a simple and easy to understand way make this project.
 The code provided by the original source had its mistakes, mostly in the SQL code mentioned in the classes themesleves.
 It mostly needed capitalization in order to work.
 
