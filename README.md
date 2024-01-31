@@ -13,6 +13,7 @@ It mostly needed capitalization in order to work.
 I made this project in order to gain knowledge, practice and help people with similar or even the exact same project.
 
 Here's the link to the Video Series mentioned if you want to do it from the beginning by yourself: https://www.youtube.com/watch?v=mGdw3bwfvRM&list=PLdRq0mbeEBmwUyZNJsmkBjQeIneme6HCz
+
 Make sure to download the jar files and images from here since the sources to download them mentioned in the series aren't exactly safe and its just easier (you can trust me).
 
 Thank you for reading this, have a wonderful day!
